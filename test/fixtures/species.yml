@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+assimilated:
+  name: Human
+  identification: 1
+  assimilated: true
+  notes: Only partially assimilated
+
+not_assimilated:
+  name: El-Aurian
+  identification: 1
+  assimilated: false
+  notes: Guinan's Species
